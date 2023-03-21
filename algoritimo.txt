@@ -1,0 +1,9 @@
+exemplo1
+1. ler o numero informado pelo usuario
+2. se numero for maior que >10 entao moste >q 10"
+3. senao entao mostre "nao é maior que >10"
+
+1.- ler a quantidade de horas /mes
+2.-ler o valor da hora trabaçhada
+3.-calcular a quantidade de horas extras
+4.-calcular o salario total
